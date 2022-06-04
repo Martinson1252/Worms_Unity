@@ -7,3 +7,7 @@ The game is based on once popular game series: "Worms".
 
 ![](https://github.com/Martinson1252/Worms_Unity/blob/main/W2.png)
 ![](https://github.com/Martinson1252/Worms_Unity/blob/main/W1.png)
+
+
+https://user-images.githubusercontent.com/39278140/172017915-2c908eaf-715f-4cad-b93e-2e7ea3d39499.mp4
+
